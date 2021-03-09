@@ -1,0 +1,3 @@
+files:
+  - source: '*'
+    translation: /folder/%locale%/origina_file_name
